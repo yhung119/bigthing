@@ -1,8 +1,14 @@
-#carousel-example-generic{
-	height:500px;
-}
+
 .carousel-inner > .item > img,
   .carousel-inner > .item > a > img {
       width: 70%;
       margin: auto;
   }
+  .carousel-caption{
+  	color:black;
+  	font-size:50px;
+  }
+ #myCarousel{
+ 	height:400px;
+ }
+ 
